@@ -1,0 +1,6 @@
+hola	A
+hola	A
+hola	A
+hola	A
+qwe	B
+asd	C
